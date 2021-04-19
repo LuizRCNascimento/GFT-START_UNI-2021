@@ -6,5 +6,5 @@ Projetos desenvolvidos em Java
 
 - Desafio 1 - Multiplicando
 - Desafio 2 - Transporte de Carga - cálculo de frete
-- Desafio 3 - Transporte de Carga - Simulação custo de frete
+- Desafio 3 - Transporte de Carga - Simulação custo de frete (Not completed)
 
