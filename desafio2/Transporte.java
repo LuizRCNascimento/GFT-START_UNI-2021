@@ -1,7 +1,7 @@
 package desafio2;
 
-public abstract class Transporte extends Carga {
+public interface class Transporte {
 
-     public abstract void calculaFrete();
+     public interface void calculaFrete();
 
 }

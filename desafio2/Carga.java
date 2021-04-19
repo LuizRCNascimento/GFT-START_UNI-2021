@@ -1,7 +1,7 @@
 package desafio2;
 
 public class Carga {
-    private double valor;
+    private double valor; 
     private double peso;
 
     public Carga() {
